@@ -9,7 +9,7 @@
         "ArrayCore",
         "vcraid"
     ],
-    "repository": "https://github.com/Desinobita",
+    "repository": "https://github.com/arun00001",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session.",
